@@ -1,4 +1,4 @@
-![img]([https://avatars.githubusercontent.com/u/148628070?s=48&v=4](https://avatars.githubusercontent.com/u/148628070?v=4))
+![img](https://avatars.githubusercontent.com/u/148628070?v=4)
 
 # **Darina Chernousova 💫**
 
@@ -33,5 +33,17 @@ multiply = function (a, b) {
   return a * b;
 }
 ```
+
+***
+
+## Work experience 👩🏼‍💻
+### __[Codewars](https://www.codewars.com/kata/50654ddff44f800200000004/javascript)__
+
+***
+
+## Education 📚
+* __[Financial University under the Government of the Russian Federation](https://en.fa.ru/)__
+Bussiness Informatics (2023-2027)
+* __Self-education__
 
 ***
