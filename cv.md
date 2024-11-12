@@ -47,3 +47,7 @@ Bussiness Informatics (2023-2027)
 * __Self-education__
 
 ***
+
+## Languages ⽭
+### _Russian - Native_
+### _English - B2_
