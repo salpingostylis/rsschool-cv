@@ -1,2 +1,2 @@
 # rsschool-cv
-https://salpingostylis.github.io/rsschool-cv/cv
+[Open CV](https://salpingostylis.github.io/rsschool-cv/)
